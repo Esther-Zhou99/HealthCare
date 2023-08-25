@@ -9,8 +9,11 @@ The dataset includes response variables measuring the frequency and intensity of
 
 ## Dental Clinic Scheduling & Revenue Optimization
 In this group project, we proposed dental scheduling and revenue optimization for a clinic called PacificWest Dental Group. We provided optimized solutions to maximize the revenue in a regular week based on the clinic's availability and demands. The report includes two optimization solutions: one is to minimize the doctors’ weekly salary pay to minimize the labor cost. Based on that, another optimal solution is to maximize the weekly revenue by generating a schedule of the provided treatment by each doctor on each working day.
-The report consists of five parts: ● Background information about the clinic, detailed staff data, and optimized problems. ● Process of model construction for two main problems, including choosing variables, setting hard and soft constraints, and building the mathematical objective formulas.
-● Optimization results generation using Gurobi and explanation of the results. ● Discussion and Recommendations to the clinic based on the results.
+The report consists of five parts: 
+● Background information about the clinic, detailed staff data, and optimized problems. 
+● Process of model construction for two main problems, including choosing variables, setting hard and soft constraints, and building the mathematical objective formulas.
+● Optimization results generation using Gurobi and explanation of the results. 
+● Discussion and Recommendations to the clinic based on the results.
 ● Summary and future plan for improvement.
 
 ## Tobacco Consumption with Educational Background as Allocation Base
