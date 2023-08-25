@@ -18,3 +18,6 @@ The report consists of five parts:
 
 ## Tobacco Consumption with Educational Background as Allocation Base
 With the broader applications of data science in the business area, business is not pure business anymore. Business analytics nowadays always requires the combination of data analytics and strategic decision-making. Our topic will focus on tobacco consumption with the education background of the consumers as the allocation base. Based on the data collected, a fair recommendation can be reached for the client, US Tobacco Associate.
+
+## Pharmacy Data Analysis (Power BI)
+Analyzed drug purchasing trends and costs using Power BI, employing multiple data visualization techniques to provide actionable insights
