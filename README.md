@@ -12,3 +12,6 @@ In this group project, we proposed dental scheduling and revenue optimization fo
 The report consists of five parts: ● Background information about the clinic, detailed staff data, and optimized problems. ● Process of model construction for two main problems, including choosing variables, setting hard and soft constraints, and building the mathematical objective formulas.
 ● Optimization results generation using Gurobi and explanation of the results. ● Discussion and Recommendations to the clinic based on the results.
 ● Summary and future plan for improvement.
+
+## Tobacco Consumption with Educational Background as Allocation Base
+With the broader applications of data science in the business area, business is not pure business anymore. Business analytics nowadays always requires the combination of data analytics and strategic decision-making. Our topic will focus on tobacco consumption with the education background of the consumers as the allocation base. Based on the data collected, a fair recommendation can be reached for the client, US Tobacco Associate.
